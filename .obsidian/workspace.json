@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "8bcf62212c465ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "24542299dea60dae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b56f1e926672d2c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "北海道行程_待填充.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "北海道行程_待填充"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6031aa12ca11105",
+    "type": "split",
+    "children": [
+      {
+        "id": "2139cb0bf799afcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a93d2479bc7ddc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "123700f71b365932",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ff0f877bced15626",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "358f1f0ff8b79a93",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ba09cf8af6fb70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14c50440280bab88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "北海道行程_待填充.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "e3a3f045125d04ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "北海道行程_待填充.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "3f3e02ef884d013e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5ab9a88c876e9cee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "43869a2728c5b51e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "北海道行程_待填充.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "b56f1e926672d2c8",
+  "lastOpenFiles": [
+    "tmp/pdfs/chuobus_voucher-1.png",
+    "tmp/pdfs",
+    "tmp",
+    "doc/CHUOBUS VOUCHER(20260928 JINFENG QIU 2P)E-1.pdf",
+    "doc/88339b2e-6e3b-46b7-8286-d8f5cd8bcec8.png",
+    "doc/0c1c655f-95d4-4fba-8301-982e2f43f761.png",
+    "tmp/pdfs/confirmation_1765353956-1.png",
+    "doc/Confirmation_for_Booking_ID_#_1765353956.pdf"
+  ]
+}
